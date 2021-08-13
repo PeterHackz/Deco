@@ -11,3 +11,5 @@ It was meant to send hay day pop files, but you can use it for anything since it
 - send
 - invite
 - stats
+### How to run
+run ```npm install``` to install the required modules

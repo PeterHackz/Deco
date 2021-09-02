@@ -21,5 +21,7 @@ It was meant to send hay day pop files, but you can use it for anything since it
 - I got help from fourk in writing the ```find``` command (fourk#3146)
 # REMARK
 I'm no longer working on this bot, so please don't open issues
+# LINKS
+- [Join my discord server](https://discord.gg/b2ejYcJjqA) 
 # STAR
 Give a star for this project 🌟 to show your support :3
